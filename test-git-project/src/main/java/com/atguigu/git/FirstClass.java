@@ -7,6 +7,10 @@ public class FirstClass {
 
     public void test(){
         System.out.println("modify");
-
     }
+
+    public static void solve(int a){
+        System.out.println(a);
+    }
+
 }
